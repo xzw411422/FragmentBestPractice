@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FragmentBestPractice</string>
+    <string name="news_content">com.iphone.fragmentbestpractice.NewsContentFragment</string>
+</resources>
